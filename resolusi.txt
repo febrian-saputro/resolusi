@@ -1,0 +1,11 @@
+Resolusi belajar web development
+1. Front End
+- Web Design
+- CSS
+- Javascript
+- Framework (Bootsrap)
+2. Back End
+- PHP
+- Framewokr (Laravel)
+3. Web Development
+- Membuat website dari 0
