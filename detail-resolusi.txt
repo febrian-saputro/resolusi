@@ -1,0 +1,6 @@
+Front End
+- Mempelajari cara kerja design web menggunakan aplikasi Figma dan Adob xd
+- Memperlajari css layouting dan element2 css
+- Mempelajari css framework bootstrap
+- Mempelajari Javascript animasi dan event 
+- Mempelajari Javascript Framework
